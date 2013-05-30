@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">PushActivity!</string>
+    <string name="app_name">wisepush</string>
+	<string name="target">Topic:</string>
+	<string name="stop_service">푸시 중지</string>
+	<string name="start_service">푸시 시작</string>
+	<string name="about">http://www.wiseeco.com</string>
+</resources>
